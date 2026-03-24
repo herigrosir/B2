@@ -261,9 +261,9 @@ http://abf.filmbluray.id/v3tj9ra
 
 #EXTINF:-1 group-title="ALL",tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/07/film-jumanji-1995.jpg" Jumanji (1995) 
 http://abf.filmbluray.id/lls6uzj
-#EXTINF:-1 group-title="Jumanji,tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/12/film-jumanji-welcome-jungle-2017.jpg" Jumanji: Welcome to the Jungle (2017) 
+#EXTINF:-1 group-title="ALL",tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/12/film-jumanji-welcome-jungle-2017.jpg" Jumanji: Welcome to the Jungle (2017) 
 http://abf.filmbluray.id/gtrrco0
-#EXTINF:-1 group-title="Jumanji,tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/12/film-jumanji-the-next-level-2019-lk21.jpg" Jumanji : The Next Level (2019) 
+#EXTINF:-1 group-title="ALL",tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/12/film-jumanji-the-next-level-2019-lk21.jpg" Jumanji : The Next Level (2019) 
 http://abf.filmbluray.id/39v93kw
 
 
@@ -855,7 +855,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title=" MAX", The Legend of Tarzan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="ALL", The Legend of Tarzan
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
@@ -879,7 +879,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title=" HBO MAX", Mad Max Fury Road
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="ALL", Mad Max Fury Road
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
