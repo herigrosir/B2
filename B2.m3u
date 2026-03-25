@@ -12,6 +12,15 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/shazam.png" group-title="ALL", Shazam 1
+http://abf.filmbluray.id/gsswjrt
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="ALL", Shazam 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/23/dd74c225-829d-3036-9fb6-41c5a573a60b.jpeg" group-title="ALL", Despicable Me 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -808,6 +817,22 @@ http://abf.filmbluray.id/pppi58j
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/back3.png" group-title="ALL", Back to The Future Part III (1990) SUB INDO
 http://abf.filmbluray.id/fa7j9a2
 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/note1.png" group-title="ALL", Death Note 1 
+http://abf.filmbluray.id/4dujbbr
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/note2.png" group-title="ALL", Death Note 2 
+http://abf.filmbluray.id/8p85uqe
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/note3.png" group-title="ALL", Death Note 3
+http://abf.filmbluray.id/g7vxn2o
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/note4.png" group-title="ALL", Death Note 4
+http://abf.filmbluray.id/vo8zt89
+
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fong1.png" group-title="ALL", Fantastic Four 1
+http://abf.filmbluray.id/4ebzwum
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fan42.png" group-title="ALL", Fantastic Four 2
+http://abf.filmbluray.id/sso1kkt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fan43.png" group-title="ALL", Fantastic Four 3
+http://abf.filmbluray.id/kxqa28f
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
 http://abf.filmbluray.id/1ku88hr
