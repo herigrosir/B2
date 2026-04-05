@@ -913,3 +913,12 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bcecca31-e728-4439-86db-94a478409d97
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-avatar-fire-ash-2025-lk21.jpg", Avatar NEW: Fire and Ash (2025)
+https://bit.ly/4t0xU9m
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
+https://bit.ly/41IRGtM
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
+https://bit.ly/4c7IpQY
