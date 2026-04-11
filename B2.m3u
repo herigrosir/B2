@@ -1,5 +1,11 @@
 #EXTM3U
-================================================= MOVIE ALL SEMUA ===============================================================
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-up-2009.jpg", UP ( Rumah Balon )
+https://bit.ly/4c4MA19
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/02/film-the-adventures-of-tintin-2011.jpg", Detektif Tintin Petualang
+https://bit.ly/3O8mTn9
+
 #EXTINF:-1 tvg-id="" tvg-name=" group-title="ALL" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
 https://bit.ly/3Q9xkY1
 
